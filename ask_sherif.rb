@@ -65,10 +65,7 @@ class Sherif
 		puts randomize!(arr).first
 		puts
 		puts randomize!(@finisher).first
-	end
-	
-
-		
+	end		
 
 	def self.main
 		Sherif.clear_screen!
